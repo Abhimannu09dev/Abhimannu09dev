@@ -55,16 +55,13 @@ I'm a passionate **Full Stack Developer** from **Nepal** 🇳🇵 with hands-on 
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out! 😊**
-
-
-
----
-
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
   <br><br>
   <b>Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out! 😊</b>
 </div>
+
+
+---
+
+
