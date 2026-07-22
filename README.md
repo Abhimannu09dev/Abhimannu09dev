@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** from **Nepal** 🇳🇵 with hands-on experience building and shipping real products across multiple internships.
+I'm a passionate **Full Stack Developer** from **Nepal** 🇳🇵 with hands-on experience building and shipping real products.
 
 - 💻 **Specialized in** building full-stack web applications and production-ready REST APIs
 - 🛠️ **Experienced with** MERN, PERN, NestJS, and ASP.NET Core stacks
